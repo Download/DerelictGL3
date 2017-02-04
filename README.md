@@ -1,6 +1,8 @@
 DerelictGL3
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/DerelictGL3.svg)](https://greenkeeper.io/)
+
 A dynamic binding to OpenGL for the D Programming Language.
 
 For information on how to build DerelictGL3 and link it with your programs, please see the post [Using Derelict][1] at The One With D.
